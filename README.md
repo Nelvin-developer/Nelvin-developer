@@ -43,19 +43,6 @@
   <img src="https://leetcode.com/u/nelvin_java/" style="width: 500px; height: 300px;" />
 </div>
 
-### Hacktoberfest(24) Badges
-
-[![An image of @anirudhps1066's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anirudhps1066)](https://holopin.io/@anirudhps1066)
-
-<img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
 
 
 
-## GitHub Profile Card
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudhps1066&theme=github_dark)
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;Let's+Connect...&center=true&size=30" />
-  </a>
-</h1>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
