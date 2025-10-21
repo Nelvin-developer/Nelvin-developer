@@ -53,7 +53,7 @@
 
 ----
 ### 📈 GitHub Stats
-![]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nelvin_developer&theme=github_dark](https://github.com/Nelvin-developer))
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nelvin-developer&theme=github_dark)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;Let's+Connect...&center=true&size=30" />
