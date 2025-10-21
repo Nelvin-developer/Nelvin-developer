@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 How to reach me: 
   <br /> 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/anirudh-ps-944598338/](https://www.linkedin.com/in/nelvin-kottackal-733170226/))
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/nelvin-kottackal-733170226/])
 - 😄 Pronouns: Techie😅
 
 <img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
@@ -28,9 +28,8 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/javascript.png" alt="javascript"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" alt="java"/>
   <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-excel.png" alt="ms-excel"/>
-  <img width="48" height="48" src="https://img.icons8.com/dusk/64/power-bi.png" alt="power-bi"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
