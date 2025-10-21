@@ -2,7 +2,8 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Nelvin+Savi!+👋;Software+Developer+from+India;Passionate+about+Java,+DSA,+and+Web+Dev!&center=true&size=30&color=6499E9">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nelvin...&center=true&size=30">
+
   </a>
 </h1>
 
@@ -40,26 +41,25 @@
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelvin-java&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Nelvin's GitHub Stats"/>
-
-  <!-- GitHub Streak Card -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=nelvin-java&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-
-</div>
-
-
----
 
 ### 🧠 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/nelvin_java?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="500"/>
 </div>
 
+
+
+
+----
+### 📈 GitHub Stats
+![]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nelvin_developer&theme=github_dark](https://github.com/Nelvin-developer))
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;Let's+Connect...&center=true&size=30" />
+  </a>
+</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+
+
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=100&section=footer"/>
-
