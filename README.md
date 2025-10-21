@@ -1,47 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=120&section=header&text=Welcome!&fontSize=40&fontColor=ffffff"/>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nelvin+Savi...&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Nelvin+Savi!+👋;Software+Developer+from+India;Passionate+about+Java,+DSA,+and+Web+Dev!&center=true&size=30&color=6499E9">
   </a>
 </h1>
-<img align="right" width="370" height="290" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0MzI2ODgsIm5iZiI6MTczNzQzMjM4OCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIxVDA0MDYyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmZmRhMjNkOTY2OTFiOTY0NGEzYTk2NmU1NTg4OTVkNGIzYTk1NTZlYTEwZTdhYTE2YWQ3ZDVkYmQ2MThhM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.quaAsvRZI8QRSOfjyOgFgTkrLnwoOi4CJ-B1Em91-cA">
+
+<img align="right" width="370" height="290" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding gif">
+
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anirudhps1066&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhps1066" /> 
+  <img src="https://komarev.com/ghpvc/?username=nelvin-java&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
+---
 
-🎓 **Computer Science Engineering Graduate**
+### 🎓 About Me
+- 💻 B.Tech in **Computer Science Engineering**
+- 👀 Interested in **Competitive Programming** and **Web Development**
+- 🌱 Currently learning **Data Structures and Algorithms (DSA)**
+- 🤝 Looking to collaborate on **Java / Web Development Projects**
+- 📫 Reach me on  
+  <a href="https://www.linkedin.com/in/nelvin-kottackal-733170226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
+- 😄 Pronouns: **Techie 😅**
 
-- 👀 I’m interested in Competitive Programming and Web Development.                                    
-- 🌱 I’m currently learning DSA.
-- 👯 I’m looking to collaborate on Web Development projects
-- 📫 How to reach me: 
-  <br /> 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/nelvin-kottackal-733170226/])
-- 😄 Pronouns: Techie😅
+---
 
-<img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
-
-### 👨‍💻 Tech Stack
+### ⚙️ Tech Stack
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/python.png" alt="Python"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" alt="Java"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" alt="java"/>
-  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-excel.png" alt="ms-excel"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-excel.png" alt="MS Excel"/>
 </p>
 
+---
 
-### 📊 Leetcode Stats
+### 📈 GitHub Stats
 <div align="center">
-  <img src="https://leetcode.com/u/nelvin_java/" style="width: 500px; height: 300px;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelvin-java&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nelvin-java&theme=tokyonight&hide_border=true" />
 </div>
 
+---
 
+### 🧠 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/nelvin_java?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="500"/>
+</div>
 
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=100&section=footer"/>
 
