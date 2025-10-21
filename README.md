@@ -34,7 +34,6 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code"/>
   <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-excel.png" alt="MS Excel"/>
 </p>
@@ -43,9 +42,15 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelvin-java&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nelvin-java&theme=tokyonight&hide_border=true" />
+
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelvin-java&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Nelvin's GitHub Stats"/>
+
+  <!-- GitHub Streak Card -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=nelvin-java&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+
 </div>
+
 
 ---
 
