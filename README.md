@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 How to reach me: 
   <br /> 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anirudh-ps-944598338/)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/anirudh-ps-944598338/](https://www.linkedin.com/in/nelvin-kottackal-733170226/))
 - 😄 Pronouns: Techie😅
 
 <img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
@@ -40,7 +40,7 @@
 
 ### 📊 Leetcode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/anirudhpss?theme=dark&font=Vesper%20Libre&ext=contest" style="width: 500px; height: 300px;" />
+  <img src="https://leetcode.com/u/nelvin_java/" style="width: 500px; height: 300px;" />
 </div>
 
 ### Hacktoberfest(24) Badges
